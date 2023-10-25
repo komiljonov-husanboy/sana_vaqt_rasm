@@ -1,0 +1,200 @@
+.card{
+    width: 200px;
+height: 300px;
+background-color: aliceblue;
+border-radius: 10px;
+text-align: center;
+margin-left: 500px;
+margin-top: 100px;
+margin: 0 auto;
+
+
+
+
+}
+
+
+img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 200px;
+    z-index: 2;
+    
+}
+li{
+    width: 300px;
+height: 400px;
+border-radius: 10px;
+border: 3px solid rgb(119, 119, 226);
+background-color: aliceblue;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 100px;
+margin-left: 50px;
+float: left;
+    list-style-type: none;
+    flex-wrap: wrap;
+z-index: 2;
+
+}
+.bold{
+    font-size: 33px;
+    color: rgb(72, 72, 179);
+    text-align: center;
+   padding-top: 20px;
+}
+
+.cont{
+    font-size: 33px;
+    color: blueviolet;
+    text-align: center;
+    font-weight: 600;
+}
+img{text-align: center;
+    width: 299px;
+    height: 200px;
+    z-index: 2;
+    border: 1px solid aliceblue;
+}
+
+
+
+
+.vazifa_1{
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: rgb(205, 229, 249);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+.vazifa_2{
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: rgb(205, 229, 249);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
+
+
+.inner{
+    width: 400px;
+    height: 150px;
+    border: 1px solid aliceblue;
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.476);
+}
+
+.time{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.date{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.shadow {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0000007e;
+    display: none;
+    z-index: 9;
+}
+
+.sana{
+    padding: 20px 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    background-color:darkcyan;
+    margin-left: 600px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.vaqt{
+    padding: 20px 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    background-color:darkcyan;
+    position: absolute;
+    z-index: 3;
+    margin-top: 300px;
+    margin-left: 600px;
+  
+}
+
+a{
+    padding: 20px 50px ;
+    text-decoration: none;
+    background-color: aquamarine;
+    border: 2px solid rgb(42, 140, 107);
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 600px;
+    color:rgba(55, 51, 51, 0.911);
+    font-size: 20px;
+}
+
+.form{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(161, 241, 220);
+    border-radius: 10px;
+      border: 3px  solid green;
+    text-align: center;
+margin-left: 500px;
+margin-top: 100px;
+}
+
+input{
+    width: 350px;
+    height: 50px;
+    text-align: left;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: rgb(213, 245, 234);
+}
+
+.btn{
+    padding: 20px 80px ;
+    text-align: left;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: rgb(48, 236, 155);
+    font-size: 16px;
+    color: rgb(67, 62, 62);
+}
